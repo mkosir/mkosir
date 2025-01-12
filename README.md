@@ -1,3 +1,3 @@
 - 👋 Hello, I'm Marko, a full stack developer
-- 🌱 Most of my days I build exciting stuff with @typescript
+- 🌱 Most of my days I build exciting stuff with @typescript & AI
 - 📫 How to reach me ... kosir.mar@gmail.com
