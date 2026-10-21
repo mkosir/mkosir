@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Marko, a full stack developer
+- 👋 Hey, I'm Marko!
 - 🌱 Most of my days I build exciting stuff with @TypeScript & AI
 - 📫 How to reach me ... kosir.mar@gmail.com
 
